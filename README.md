@@ -1,8 +1,11 @@
 # API-testing-Using-Postman
-- GET Method: Get Student
-- POST Method: Create Student
-- PUT Method:  Update Student
-- GET Method: Get Specific Student
-- POST Method: Create Technicalskills
-- POST Method: Create Student Address
-- GET Method: Get Student Full Details
+- GET Method: API Status
+- GET Method: List of Books
+- GET Method: Get Single Books
+- POST Method: Order Book
+- GET Method: Get all Order
+- GET Method: Get an Order
+- PATCH Method: Update an Order
+- DELETE Method: Delete an Order
+- POST Method: API Authorization
+
