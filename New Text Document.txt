@@ -1,0 +1,16 @@
+newman run "E:\Postman\Batch6B.postman_collection.json" -e E:\Postman\Batch6B.postman_environment.json
+
+newman run "https://www.getpostman.com/collections/607f687d860dded37c11" -e E:\Postman\Batch6B.postman_environment.json
+
+
+
+C:\Users\raghn\Downloads\Postman
+
+
+https://www.getpostman.com/collections/607f687d860dded37c11
+
+
+newman run “https://www.getpostman.com/collections/607f687d860dded37c11” -e “E:/Postman”/Batch6B.postman_environment.json -r cli,htmlextra
+newman run “Collection Link” -e “Path”/EnvironmentName.json
+
+newman run "https://www.getpostman.com/collections/9dfd83aba406029831ed" -r cli,htmlextra
